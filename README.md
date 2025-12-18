@@ -4,9 +4,9 @@
 
 ### Куда нажать чтобы приколы (ну и чтоб забилдилось):
 
-mkdir build\n
-cd build
-cmake .. -G "MinGW Makefiles"
-mingw32-make
-./editor.exe
-./rpg_tests.exe
+mkdir build<br>
+cd build<br>
+cmake .. -G "MinGW Makefiles"<br>
+mingw32-make<br>
+./editor.exe<br>
+./rpg_tests.exe<br>
