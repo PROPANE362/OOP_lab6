@@ -4,7 +4,7 @@
 
 ### Куда нажать чтобы приколы (ну и чтоб забилдилось):
 
-mkdir build
+mkdir build\n
 cd build
 cmake .. -G "MinGW Makefiles"
 mingw32-make
